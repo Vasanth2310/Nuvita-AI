@@ -92,7 +92,7 @@ Follow these straightforward steps to get Nuvita AI up and running on your local
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/nuvita-ai.git](https://github.com/your-username/nuvita-ai.git)
+    git clone [https://github.com/Vasanth2310/Nuvita-AI.git](https://github.com/Vasanth2310/Nuvita-AI.git)
     ```
 
 2.  **Navigate to the Project Directory:**
