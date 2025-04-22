@@ -1,33 +1,91 @@
-# Nuvita AI – Your Personalized Career Copilot 🚀
+![github-submission-banner](https://github.com/user-attachments/assets/a1493b84-e4e2-456e-a791-ce35ee2bcf2f)
+
+# Nuvita AI 🚀
+
+> Your Personalized Career Copilot
 
 Nuvita AI is an intelligent career assistant meticulously crafted to empower professionals and job seekers with a suite of tools designed to forge compelling resumes, conquer interviews, and navigate their career journeys with unwavering confidence. Whether you're embarking on a career change, stepping into the professional world for the first time, or aiming for that next significant promotion, Nuvita AI dynamically adapts to your unique aspirations and communicates in a way that resonates with your specific needs.
 
 ---
 
-## 🎬 Demo Video
+## 📌 Problem Statement
 
-<!-- [![Demo](https://img.youtube.com/vi/your_youtube_video_id/0.jpg)](https://your-demo-video-url.com) -->
+**Problem Statement 1 – Weave AI magic with Groq**
 
-Get a quick visual overview of Nuvita AI's key features and how it can help you in your career journey. **Click the image above to watch the demo.**
+---
 
-## 📝 Presentation Slides
+## 🎯 Objective
 
-<!-- [Presentation](https://your-presentation-slides-url.com) -->
+- **Problem:** Over 75% of students and job seekers feel lost when making career decisions or preparing for job applications.
+- **Solution:** Nuvita AI offers intelligent, personalized career guidance powered by AI to simplify this journey.
+- **Target Users:** Students, recent graduates, and professionals seeking better career opportunities.
+- **Real-World Use Case:** Users can generate tailored resumes, cover letters, receive industry insights, and practice mock quizzes—all in one platform.
+- **Value Provided:** Saves time, reduces stress, improves job readiness, and empowers users with the tools and insights they need to succeed.
 
-Explore our detailed presentation to understand the vision, features, and technology behind Nuvita AI.
+---
+
+## 🧠 Team & Approach
+
+### Team Name:  
+`BioMorph AI`
+
+### Team Members:  
+- Vasanth Kumar C
+- Role : AI & Full Stack Developer
+<!-- [GitHub](https://github.com/Vasanth2310/) -->
+<!-- [Linkedin](https://www.linkedin.com/in/vasanthkumar-c) -->
+
+### 🧭 Your Approach
+
+- **Why this problem:** We noticed a huge gap in accessible, personalized career support, especially for students entering a competitive job market.
+- **Key challenges addressed:** Real-time AI response speed, user personalization, and simplifying complex tasks like resume building and skill alignment.
+- **Breakthroughs during hacking:**
+  - Integrated Groq’s low-latency AI for instant feedback.
+  - Developed modular AI agents for each core feature.
+  - Pivoted from a static tool to a dynamic, user-adaptive system after early testing.
+
+---
+
+## 🛠️ Tech Stack
+
+### Core Technologies Used:
+
+- **Frontend:**
+  - Next.js with TypeScript
+  - Tailwind CSS for styling
+  - Shadcn UI for beautifully-designed, accessible components
+
+- **Backend:**
+  - Groq API for ultra-fast AI inference
+
+- **Database:**
+  - Clerk (for user data and session history)
+  - Prisma (for resume, cover letter and quiz data)
+  - Local JSON/mock data for prototyping
+
+- **APIs:**
+  - Groq (LLM inference)
+
+- **Hosting:**
+  - Vercel 
+
+---
+
+### Sponsor Technologies Used:
+- ✅ **Groq:** Used Groq’s ultra-fast LPU inference to power real-time resume building, cover letter generation, career recommendations, and mock quizzes. Its low latency enabled an interactive, seamless user experience with instant AI responses.
 
 ---
 
 ## ✨ Key Features
 
-### 📄 Smart Resume Builder
+### ✅ Smart Resume Builder
 Unleash the power of a meticulously crafted, personalized resume that speaks directly to your target industry. Nuvita AI intelligently analyzes your provided information and elevates your content with quantifiable achievements, impactful action verbs, and critical industry-specific keywords that recruiters actively seek.
 
 - **Intelligent Upserts:** Seamlessly update and save your resume iterations, ensuring your progress is never lost.
 - **AI-Powered Enhancement:** Benefit from intelligent suggestions driven by Groq LLM (with the flexibility to integrate Google Gemini), providing insightful recommendations to strengthen your resume's impact.
 - **Secure User Authentication:** Built with Clerk for robust and reliable user authentication, safeguarding your personal information.
 
-### 🧠 Real-time Industry Insights
+### ✅ Real-time Industry Insights
 Gain a competitive edge with up-to-the-minute, AI-driven insights directly relevant to your chosen domain. Stay informed about:
 
 - **Essential Skills:** Discover the core competencies and abilities that are highly valued in your industry.
@@ -37,13 +95,13 @@ Gain a competitive edge with up-to-the-minute, AI-driven insights directly relev
 
 These dynamic insights are seamlessly integrated across the Nuvita AI platform, ensuring that all suggestions and improvements are contextually relevant and highly personalized.
 
-### 🧪 Comprehensive Interview Prep
+### ✅ Comprehensive Interview Prep
 Sharpen your interview skills and boost your confidence with realistic, role-specific, and scenario-based quiz rounds designed to simulate real-world interview experiences.
 
 - **Technical and Behavioral Readiness:** Prepare for both the technical intricacies and the behavioral nuances of your target roles.
 - **Personalized Feedback and Scoring:** Receive detailed feedback on your performance, highlighting areas of strength and opportunities for improvement.
 
-### 📨 Intelligent Cover Letter Creator
+### ✅ Intelligent Cover Letter Creator
 Generate compelling and personalized cover letters that perfectly complement your resume and align seamlessly with the specific requirements of each job description.
 
 - **AI-Generated Tailored Content:** Leverage the power of AI to craft content that directly addresses the job requirements and highlights your most relevant experience.
@@ -52,13 +110,33 @@ Generate compelling and personalized cover letters that perfectly complement you
 
 ---
 
-## 🛠️ Core Technologies
+## 🎬 Demo Video
 
-- **Frontend Framework**: Next.js (leveraging the modern App Router for enhanced performance and structure) + elegant styling with Tailwind CSS
-- **Backend Infrastructure**: Robust data management with Prisma ORM interacting with a reliable PostgreSQL database
-- **Secure Authentication**: Seamless and secure user management powered by Clerk
-- **Intelligent AI Model**: Cutting-edge language processing powered by Groq LLM (future-proofed for potential integration with Google Gemini)
-- **Deployment Platform**: Scalable and reliable hosting on Vercel
+<!-- [Demo](https://vimeo.com/1077537224/f7a4aebe77?share=copy) -->
+
+Get a quick visual overview of Nuvita AI's key features and how it can help you in your career journey. **Click the image above to watch the demo.**
+
+## 📝 Presentation Slides
+
+<!-- [Presentation](https://docs.google.com/presentation/d/1vOC3aXTavbU3RGZ_ZCfxL7bqDyr2DfLul_s0CfFoDYE/edit?usp=sharing) -->
+
+Explore our detailed presentation to understand the vision, features, and technology behind Nuvita AI.
+
+---
+
+## ✅ Tasks & Bonus Checklist
+
+- ✅ **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form** (Details in Participant Manual)  
+- ✅ **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)** (Details in Participant Manual)  
+- ✅ **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)** (Details in Participant Manual)
+
+---
+
+## ✅ Tasks & Bonus Checklist
+
+- ✅ **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form** (Details in Participant Manual)  
+- ✅ **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)** (Details in Participant Manual)  
+- ✅ **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)** (Details in Participant Manual)
 
 ---
 
@@ -77,7 +155,7 @@ NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
 NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
 NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
 
-GEMINI_API_KEY=
+GEMINI_API_KEY= (Not Needed)
 
 GROQ_API_KEY=
 ```
@@ -118,7 +196,48 @@ Once the development server is running, you can access Nuvita AI in your web bro
 
 Your security and privacy are at the core of Nuvita AI's design philosophy. We leverage the industry-leading authentication service, Clerk, to ensure the robust protection of your account and personal information. You can be confident that all user data is securely stored and will never be shared with any external third parties. Your professional journey is yours, and we are committed to keeping your data private.
 
-## 🤝 Join Our Community: Contributing to Nuvita AI
+---
+
+## 🧬 Future Scope
+
+List improvements, extensions, or follow-up features:
+
+- 📈 **More Integrations**  
+  Integrate with platforms like LinkedIn, GitHub, and job boards for one-click profile syncing and job application tracking.
+
+- 🛡️ **Security Enhancements**  
+  Implement OAuth-based login, role-based access, and data encryption to protect user data and ensure privacy compliance.
+
+- 🌐 **Localization / Broader Accessibility**  
+  Support multiple languages and regional career databases to serve a global audience more effectively.
+
+- 🤖 **Voice & Chat Assistant**  
+  Introduce a conversational AI to guide users through career decisions interactively.
+
+- 📊 **User Analytics Dashboard**  
+  Provide insights on skill gaps, improvement areas, and career readiness progress through visual analytics.
+
+---
+## 📎 Resources / Credits
+
+- **APIs or Datasets Used:**
+  - Groq API for ultra-fast AI inference, resume and letter generation, insights, and quiz content
+
+- **Open Source Libraries or Tools Referenced:**
+  - Clerk for authentication and user management
+  - Shadcn UI for modern, accessible UI components
+  - Prisma for database ORM and type-safe queries
+  - Tailwind CSS for utility-first styling
+
+- **Acknowledgements:**
+  - Groq Hackathon team for organizing and providing the platform
+  - BioMorph AI team members for collaboration and creativity
+  - Open-source community for tools and inspiration
+
+---
+## 🏁 Final Words
+
+### 🤝 Join Our Community: Contributing to Nuvita AI
 
 We believe in the power of collaboration and enthusiastically welcome contributions from the developer community! If you are passionate about empowering career growth and have ideas or improvements to share, we encourage you to get involved. Here's how you can contribute:
 
@@ -129,6 +248,8 @@ We believe in the power of collaboration and enthusiastically welcome contributi
 5.  **Submit a Pull Request:** Once you're confident in your contributions, submit a pull request to the `main` branch of the original Nuvita AI repository. Provide a clear and concise description of your changes and their purpose.
 
 We deeply appreciate your dedication to making Nuvita AI an even more valuable resource for professionals worldwide!
+
+---
 
 ## 📄 Licensing Information
 
