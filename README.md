@@ -32,8 +32,8 @@ Nuvita AI is an intelligent career assistant meticulously crafted to empower pro
 ### Team Members:  
 - Vasanth Kumar C
 - Role : AI & Full Stack Developer
-<!-- [GitHub](https://github.com/Vasanth2310/) -->
-<!-- [Linkedin](https://www.linkedin.com/in/vasanthkumar-c) -->
+[GitHub](https://github.com/Vasanth2310/)
+[Linkedin](https://www.linkedin.com/in/vasanthkumar-c)
 
 ### 🧭 Your Approach
 
@@ -112,13 +112,13 @@ Generate compelling and personalized cover letters that perfectly complement you
 
 ## 🎬 Demo Video
 
-<!-- [Demo](https://vimeo.com/1077537224/f7a4aebe77?share=copy) -->
+[Demo](https://vimeo.com/1077537224/f7a4aebe77?share=copy)
 
 Get a quick visual overview of Nuvita AI's key features and how it can help you in your career journey. **Click the image above to watch the demo.**
 
 ## 📝 Presentation Slides
 
-<!-- [Presentation](https://docs.google.com/presentation/d/1vOC3aXTavbU3RGZ_ZCfxL7bqDyr2DfLul_s0CfFoDYE/edit?usp=sharing) -->
+[Presentation](https://docs.google.com/presentation/d/1vOC3aXTavbU3RGZ_ZCfxL7bqDyr2DfLul_s0CfFoDYE/edit?usp=sharing)
 
 Explore our detailed presentation to understand the vision, features, and technology behind Nuvita AI.
 
