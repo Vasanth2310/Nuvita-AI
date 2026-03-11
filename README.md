@@ -202,7 +202,7 @@ We believe in the power of collaboration and enthusiastically welcome contributi
 4.  **Test Thoroughly:** Verify that your changes function as expected and do not introduce any regressions.
 5.  **Submit a Pull Request:** Once you're confident in your contributions, submit a pull request to the `main` branch of the original Nuvita AI repository. Provide a clear and concise description of your changes and their purpose.
 
-We deeply appreciate your dedication to making Nuvita AI an even more valuable resource for professionals worldwide!
+We deeply appreciate your dedication to making Nuvita AI an even more valuable resource for professionals worldwide !
 
 ---
 
